@@ -1,0 +1,11 @@
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\bin\Debug\plotter0_3_1.exe.config
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\bin\Debug\plotter0_3_1.exe
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\bin\Debug\plotter0_3_1.pdb
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\bin\Debug\OxyPlot.dll
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\bin\Debug\OxyPlot.Wpf.dll
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\bin\Debug\OxyPlot.Wpf.pdb
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\bin\Debug\OxyPlot.Wpf.xml
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\obj\Debug\plotter0_3_1.csprojResolveAssemblyReference.cache
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\obj\Debug\plotter0_3_1.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\obj\Debug\plotter0_3_1.exe
+C:\Users\Nikolay\Desktop\#Volgu\18-1\ООП\plotter0_3_1\obj\Debug\plotter0_3_1.pdb
